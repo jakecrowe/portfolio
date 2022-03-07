@@ -1,10 +1,10 @@
-# jake crowes Programming Portfolio
+# Jake Crowe's Programming Portfolio
 
-## Processing Projects
+## __Processing Projects__
 
 ### SpaceGame
 
-#### collision detection game
+#### **Collision Detection Game**
 
 [SpaceGame](https://github.com/jakecrowe/programming-1/blob/gh-pages/images/spacegame.png)
 
@@ -12,10 +12,10 @@
 
 ### Calculator
 
-#### Basic Calculator App
+#### **Basic Calculator App**
 
 [Calculator](https://github.com/jakecrowe/programming-1/blob/gh-pages/images/Calculator.png)
 
 [Source Code for Calculator](https://github.com/jakecrowe/programming-1/blob/gh-pages/src/Calculator.zip)
 
-## Java Projects
+## __Java Projects__
