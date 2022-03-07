@@ -10,11 +10,11 @@
 
 [Source Code for SpaceGame](https://github.com/jakecrowe/programming-1/blob/gh-pages/src/SpaceGame.zip)
 
-###Calculator
+### Calculator
 
-####Basic Calculator App
+#### Basic Calculator App
 
-[Calculator]
+[Calculator](https://github.com/jakecrowe/programming-1/blob/gh-pages/images/Calculator.png)
 
 [Source Code for Calculator](https://github.com/jakecrowe/programming-1/blob/gh-pages/src/Calculator.zip)
 
